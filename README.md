@@ -1,6 +1,4 @@
 # mono-ubuntu1604
-mono with screen based on ubuntu 16.04 (for run opensim on mono).
-
 mono with screen based on ubuntu 16.04 (for run opensim on mono 4.6.2.7). mono 4.6.2.7 works for opensim and https ssl , as other higher versions are not working anymore. 
 
 it will put opensim to screen as setup in /opt/opensim/bin/autostart.sh 
